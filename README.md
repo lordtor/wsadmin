@@ -1,4 +1,6 @@
-# wsadminModule Name: wsadmin
+# wsadmin
+
+Module Name: wsadmin
 =========
 
 Модули по работе с IBM WAS wsadmin
